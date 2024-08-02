@@ -1,0 +1,34 @@
+* {
+  font-family: Alkatra;
+}
+
+.my-photo img, .user-photo {
+  width: 150px;
+  border-radius: 5px;
+  margin: 5px auto;
+}
+
+
+nav {
+  background-color: #0055aa26;
+}
+
+nav h1, .alert-heading {
+  color:  #002663;
+  font-family: Alkatra;
+}
+
+.result {
+  font-family: Alkatra;
+}
+
+.action-btn {
+  width: 80px;
+}
+
+.user-photo {
+  width: 250px;
+  height: 250px;
+  margin: 0px 50px;
+  border-radius: 200px;
+}
